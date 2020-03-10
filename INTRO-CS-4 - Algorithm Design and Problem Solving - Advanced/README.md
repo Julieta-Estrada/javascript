@@ -46,9 +46,9 @@ Complete the function to print out the string `This is a sentence.`
 
 #### Exercise #2
 Write a function that:
-* Takes in an array of numbers
-* Doubles the value of each number in the array
-* Prints out the new updated array
+* Takes in an array of numbers.
+* Doubles the value of each number in the array.
+* Prints out the new updated array.
 
 Example: 
 Given an array `[1, 2, 4, 5]`. 
@@ -67,7 +67,7 @@ The product is 24.
 var student1Courses = ['Math', 'English', 'Programming'];
 var student2Courses = ['Geography', 'Spanish', 'Programming'];
 ```
-Create a program that loops over the 2 arrays and if there are any common courses print them out to the console.
+Create a program that loops over the 2 arrays; if there are any common courses print them out to the console.
 
 
 #### Exercise #5
@@ -94,7 +94,7 @@ Write a program to sort a list of names alphabetically.
 
 #### Exercise #1
 1. Code and paste the code below into a repl.it (set to Javascript).
-2. Make sure to run the program the understand the output.
+2. Make sure to run the program to understand the output.
 3. Find ways to improve the code and make it clearer to understand.
 
 ```
@@ -108,9 +108,9 @@ function someFunction(list) {
 ```
 
 #### Exercise #2
-1. Code and paste the code below into a repl.it (set to Javascript).
-2. Make sure to run the program the understand what it currently outputs.
-3. Write test cases and fix the code according to the expected output
+1. Copy and paste the code below into a repl.it (set to Javascript).
+2. Make sure to run the program to understand what it currently outputs.
+3. Write test cases and fix the code according to the expected output.
 
 Output should be:
 Failed if they scored 6 or less
@@ -154,4 +154,4 @@ var values1= ['Apple', 1, false];
 var values2 = ['Fries', 2 ,true];
 var values3 = ['Mars', 9, 'Apple'];
 ```
-Create a function that compares the 3 arrays and find any common elements. Print out the common elements.
+Create a function that compares the 3 arrays and finds any common elements. Print out the common elements.
