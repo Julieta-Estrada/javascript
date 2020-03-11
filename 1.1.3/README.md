@@ -1,4 +1,4 @@
-# INTRO-CS-3 Algorithms-Introduction
+# INTRO-CS-3 - Algorithm Design and Problem Solving - Introduction
 
 ## Class Exercises
 ### Logical
