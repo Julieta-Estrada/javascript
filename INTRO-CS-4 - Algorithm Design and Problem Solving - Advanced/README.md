@@ -1,6 +1,6 @@
 # INTRO-CS-4 - Algorithm Design and Problem Solving - Advanced
 
-## Class Exercises
+## CONTENT Exercises
 
 #### Exercise #1
 
@@ -27,7 +27,7 @@ Hint: call the function from Class Exercise #1 (Exercise #1 should return a sing
 4. Test your partner's code for correctness (does it give the correct output), if it does not give the correct output, work together to fix the code.
 
 
-## Practice Exercises
+## PRACTICE Exercises
 
 ### Arrays
 
