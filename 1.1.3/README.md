@@ -1,6 +1,6 @@
 # INTRO-CS-3 - Algorithm Design and Problem Solving - Introduction
 
-## Class Exercises
+## CONTENT Exercises
 ### Logical
 On pen and paper, solve the logical exercises and give the expected output statement (true / false):
 ```
@@ -28,7 +28,7 @@ Complete the exercises in the [repl.it](https://repl.it/@DebbieLy/String-exercis
 ### User Input
 Complete exercise in the [repl.it](https://repl.it/@DebbieLy/User-input-prompt).
 
-## Practice Exercises
+## PRACTICE Exercises
 ### Part 1
 
 1. Open a repl.it Javascript page and call it Algorithms Introduction Exercise 1.
