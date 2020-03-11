@@ -28,7 +28,7 @@ Complete the exercises in the [repl.it](https://repl.it/@DebbieLy/String-exercis
 ### User Input
 Complete exercise in the [repl.it](https://repl.it/@DebbieLy/User-input-prompt).
 
-## PRACTICE Exercises
+## PRACTICE 
 ### Part 1
 
 1. Open a repl.it Javascript page and call it Algorithms Introduction Exercise 1.
